@@ -27,3 +27,6 @@ Because the project is entirely client-side, running it is incredibly simple:
 1. Clone this repository to your local machine:
    ```bash
    git clone [https://github.com/yourusername/bharatverse.git](https://github.com/yourusername/bharatverse.git)
+2.Navigate to the project folder.
+
+3.Double-click the BHARATVERSE_final.html file to open it in any modern web browser (Chrome, Edge, Firefox, Safari). No local server is required.
