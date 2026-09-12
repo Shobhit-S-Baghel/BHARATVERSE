@@ -20,6 +20,8 @@ This prototype is built to be lightweight, fast, and completely free of heavy de
 * **Architecture:** Single-page application structure (`BHARATVERSE_final.html`) using DOM manipulation for seamless dashboard transitions.
 * **Typography & Styling:** Custom CSS Grid/Flexbox layouts, Google Fonts (Merriweather, Inter), and native CSS variables for theme switching.
 
+
+## To visit the website follow this link https://sage-babka-bef39c.netlify.app/ 
 ## 💻 How to Run Locally
 
 Because the project is entirely client-side, running it is incredibly simple:
@@ -30,3 +32,6 @@ Because the project is entirely client-side, running it is incredibly simple:
 2.Navigate to the project folder.
 
 3.Double-click the BHARATVERSE_final.html file to open it in any modern web browser (Chrome, Edge, Firefox, Safari). No local server is required.
+
+
+
